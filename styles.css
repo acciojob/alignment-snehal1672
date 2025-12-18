@@ -13,12 +13,22 @@
 }
 #table-1 td{
 	border: 1px solid black;
+	Spacing: 1px; 
+	Cell Padding: 1px;
 }
 
 #table-2{
-	border:1px;
+	border: 1px solid black;
+	Spacing: 1px; 
+	Cell Padding: 1px;
 	width:100%;
 }
 #t21{
 	height:25px;
+}
+#table-3{
+	border: 1px solid black;
+	Spacing: 1px; 
+	Cell Padding: 1px;
+	width:100%;
 }
