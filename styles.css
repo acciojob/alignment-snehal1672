@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+
+.middle{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+
+#table-1{
+	border: 1px solid black;
+	width:100%;
+}
+#table-1 td{
+	border: 1px solid black;
+}
+
+#table-2{
+	border:1px;
+	width:100%;
+}
+#t21{
+	height:25px;
+}
