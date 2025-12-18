@@ -13,6 +13,7 @@
 }
 #table-1 td{
 	border: 1px solid black;	
+	height:10px;
 }
 
 #table-2{
@@ -20,6 +21,7 @@
 	Spacing: 1px; 
 	Cell Padding: 1px;
 	width:100%;
+	
 }
 #t21{
 	height:25px;
@@ -27,6 +29,7 @@
 
 #table-2 td{
 	border: 1px solid black;
+	height:10px;
 }
 #table-3{
 	border: 1px solid black;
@@ -36,4 +39,8 @@
 }
 #table-3 td{
 	border: 1px solid black;
+	
+#table-2 td{
+	border: 1px solid black;
+	height:10px;
 }
