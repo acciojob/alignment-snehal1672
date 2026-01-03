@@ -2,6 +2,9 @@
 
 .middle{
 	text-align:center;
+	display: flex;
+	justify-content:center;
+	align-items:center;
 }
 .right{
 	text-align:right;
@@ -11,12 +14,12 @@
 	border: 1px solid black;
 	width:100%;
 }
-#table-1 td{
+#table-2 td{
 	border: 1px solid black;	
 	height:10px;
 }
 
-#table-2{
+#table-3{
 	border: 1px solid black;
 	Spacing: 1px; 
 	Cell Padding: 1px;
